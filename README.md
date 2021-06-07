@@ -9,7 +9,7 @@
 
  Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/9k-Ey8xPY20
 
 My Website    : https://hackingforlive.wordpress.com
 
