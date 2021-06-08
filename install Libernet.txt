@@ -9,4 +9,16 @@ Eksekusi
 
  pwd : root
 
+ cari folder wwww
+
+ cd /root/wwww
+
+ Copy Paste Filenya Libernet
+
  reboot
+
+
+NB : Backup dlu file Libernet yg asli
+
+
+Creator Boychongzen aka Xroot
