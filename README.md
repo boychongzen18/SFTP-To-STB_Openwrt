@@ -7,7 +7,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/SFTP_Android/main/Termux01.jpg)
 
 #  Tampil FTP Windows
-![be](https://raw.githubusercontent.com/boychongzen18/SFTP_Android/main/ftp.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/SFTP_Android/main/ftp1.jpg)
 
 
 
